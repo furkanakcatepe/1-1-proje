@@ -1,0 +1,3 @@
+D:/CLessons/DonemOdevi/cmake-build-debug/CMakeFiles/DonemOdevi.dir
+D:/CLessons/DonemOdevi/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLessons/DonemOdevi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
